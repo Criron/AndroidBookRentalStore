@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Question"
+        android:title="Ερωτηματολόγιο" />
+    <item android:id="@+id/Profil"
+        android:title="Προφίλ" />
+    <item android:id="@+id/Basket"
+        android:title="Καλάθι" />
+    <item android:id="@+id/Logout"
+        android:title="Αποσύνδεση" />
+</menu>
